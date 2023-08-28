@@ -1,2 +1,1 @@
-# identity
-FiveM Identity 
+# Identity Skripta za FiveM server.
